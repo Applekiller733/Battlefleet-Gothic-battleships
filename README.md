@@ -28,4 +28,7 @@ This is a Python battleships game project built by me. I have expanded on the in
 
   -multiple 'class' types dictating available ships at startup
 
+  ![image](https://github.com/Applekiller733/Battlefleet-Gothic-battleships/assets/72962481/2c097bb1-7a35-47f0-adf3-a8f1a341279e)
+
+
 Despite this, what the project lacks is a proper AI (currently AI simply randomly assigns hits on board) and a proper GUI, as the entirety of the game takes place inside of the console.
